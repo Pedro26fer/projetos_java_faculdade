@@ -13,5 +13,7 @@ public class Lista03Programa02 {
         }
         System.out.println("O numero é par");
         entrada.close();
+
+        entrada.close();
     }    
 }
